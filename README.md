@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manbeersingh1300
+- 👋 Hi, I’m Manbeer Singh
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
