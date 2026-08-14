@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manbeer Maken
+# Hi 👋, I'm Manbeer Singh Maken
 
 ### Full Stack Developer
 
